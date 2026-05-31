@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="aeolus-org-header.svg">
-    <source media="(prefers-color-scheme: light)" srcset="aeolus-org-header.svg">
-    <img src="aeolus-org-header.svg" alt="Aeolus Business Consulting" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="aeolus-org-header.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="aeolus-org-header.jpg">
+    <img src="aeolus-org-header.jpg" alt="Aeolus Business Consulting" width="100%">
   </picture>
 </div>
 
