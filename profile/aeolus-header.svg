@@ -63,7 +63,7 @@
   <!-- Stats row -->
   <g>
     <text x="400" y="248" font-family="system-ui, sans-serif" font-size="12" fill="#5A5A6A" text-anchor="middle">INFRASTRUCTURE</text>
-    <text x="400" y="268" font-family="system-ui, sans-serif" font-size="13" fill="#00D4FF" text-anchor="middle" filter="url(#glow)">Cloudflare · DGX Spark</text>
+    <text x="400" y="268" font-family="system-ui, sans-serif" font-size="13" fill="#00D4FF" text-anchor="middle" filter="url(#glow)">Cloudflare · NVIDIA DGX</text>
 
     <text x="640" y="248" font-family="system-ui, sans-serif" font-size="12" fill="#5A5A6A" text-anchor="middle">STACK</text>
     <text x="640" y="268" font-family="system-ui, sans-serif" font-size="13" fill="#00D4FF" text-anchor="middle" filter="url(#glow)">Edge-native · Production AI</text>

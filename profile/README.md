@@ -8,7 +8,7 @@
 
 ---
 
-We design, build, and operate **production-grade AI infrastructure** — from inference at the edge to multi-agent media platforms — running predominantly on Cloudflare Workers, with GPU acceleration on NVIDIA DGX Spark.
+We design, build, and operate **production-grade AI infrastructure** — from inference at the edge to multi-agent media platforms — running predominantly on Cloudflare Workers, with GPU acceleration on NVIDIA DGX.
 
 ### What We Build
 
@@ -23,7 +23,7 @@ Our work lives at the intersection of:
 
 ```
 ☁️ Edge    → Cloudflare Workers · D1 · R2 · KV · Queues · Vectorize · AI Gateway
-🤖 AI      → Workers AI · Voyage AI · Ollama · ComfyUI on DGX Spark
+🤖 AI      → Workers AI · Voyage AI · Ollama · ComfyUI on NVIDIA DGX
 🗄️ Data    → DuckDB · pgvector · Drizzle ORM · AetherDB
 ⚙️ Orchestr → Temporal · Hono · FastAPI
 🌐 Frontend → Next.js 16 · React 19 · TailwindCSS v4
@@ -36,7 +36,7 @@ Our work lives at the intersection of:
 |------|------|
 | [ubertool](https://github.com/AeolusConsulting/ubertool) | 🦀 Agent-friendly Rust CLI — dev utilities, crypto, JWT, OTP, IBAN |
 | [agentskillz](https://github.com/mieitza/agentskillz) | Shared agent memory — one MCP server, one skill, every agent speaks the same memory |
-| [comfyui-aeon-spark](https://github.com/mieitza/comfyui-aeon-spark) | ComfyUI for NVIDIA DGX Spark — CUDA 13 + SageAttention |
+| [comfyui-aeon-spark](https://github.com/mieitza/comfyui-aeon-spark) | ComfyUI for NVIDIA DGX — CUDA 13 + SageAttention |
 | [whisperx-blackwell](https://github.com/mieitza/whisperx-blackwell) | GPU-accelerated WhisperX on NVIDIA Blackwell |
 
 ### From the Lab
