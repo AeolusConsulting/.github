@@ -1,14 +1,9 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://aeolusconsulting.ro/_next/image?url=%2Flogo-dark.png&w=256&q=75">
-    <img src="https://aeolusconsulting.ro/favicon.ico" alt="Aeolus Business Consulting" width="80" height="80">
+    <source media="(prefers-color-scheme: dark)" srcset="aeolus-header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="aeolus-header.svg">
+    <img src="aeolus-header.svg" alt="Aeolus Business Consulting" width="100%">
   </picture>
-  <h1>Aeolus Business Consulting</h1>
-  <p><strong>Edge-first AI Infrastructure & Intelligent Systems</strong></p>
-  <p>
-    <a href="https://aeolusconsulting.ro">aeolusconsulting.ro</a> ·
-    <a href="mailto:contact@aeolusconsulting.ro">contact@aeolusconsulting.ro</a>
-  </p>
 </div>
 
 ---
